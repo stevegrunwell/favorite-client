@@ -1,0 +1,23 @@
+/**
+ * Default theme for reveal.js.
+ *
+ * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+
+@import "../../bower_components/reveal.js/css/theme/template/mixins";
+@import "../../bower_components/reveal.js/css/theme/template/settings";
+@import "../../bower_components/reveal.js/css/theme/template/theme";
+@import "../../bower_components/grunwell-reveal-theme/grunwell-theme.scss";
+
+.multiple-choice {
+	li {
+		list-style-type: lower-alpha;
+	}
+}
+
+.reveal section .remove-spacing {
+	display: none;
+	&.current-fragment {
+		display: block;
+	}
+}

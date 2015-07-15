@@ -1,0 +1,9 @@
+{
+  "name": "5-things-you-can-do-to-become-your-agencys-favorite-client",
+  "version": "0.1.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "reveal-highlight-themes": "~8.3.0",
+    "grunwell-reveal-theme": "https://github.com/stevegrunwell/grunwell-reveal-theme.git#~0.1.0"
+  }
+}

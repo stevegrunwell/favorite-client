@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "5 Things You Can Do to Become Your Agency's Favorite Client",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "favorite-client"
+  }
+}
