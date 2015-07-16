@@ -1,4 +1,4 @@
-##  Buckeye Interactive
+### ![Buckeye Interactive](assets/buckeye-interactive.svg)
 
 * Small businesses <!-- .element: class="fragment" -->
 * Civic organizations <!-- .element: class="fragment" -->

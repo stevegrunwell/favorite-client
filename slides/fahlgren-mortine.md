@@ -1,4 +1,4 @@
-##  Fahlgren Mortine
+### ![Fahlgren Mortine](assets/fahlgren-mortine.png)
 
 * Small businesses <!-- .element: class="fragment" -->
 * Civic organizations <!-- .element: class="fragment" -->

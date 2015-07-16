@@ -15,9 +15,26 @@
 	}
 }
 
-.reveal section .remove-spacing {
-	display: none;
-	&.current-fragment {
-		display: block;
+.reveal section {
+	.remove-spacing {
+		display: none;
+		&.current-fragment {
+			display: block;
+		}
 	}
+
+	h3 {
+		img {
+			width: 100%;
+			max-width: 60%;
+			max-height: 20%;
+			background: none;
+			border: none;
+			box-shadow: none;
+		}
+	}
+}
+
+#tenup {
+	max-width: 20%;
 }

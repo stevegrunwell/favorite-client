@@ -1,4 +1,4 @@
-##  Sea Lion Studio
+### ![Sea Lion Studio](assets/sea-lion-studio.png)
 
 * Small businesses <!-- .element: class="fragment" -->
 * Civic organizations <!-- .element: class="fragment" -->
